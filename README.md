@@ -1,6 +1,3 @@
-# MRV-Tugas-Besar-1
+# Linear Algebra Solver
 
-Tubes 1 MRV
-
-(fake) DEADLINE : oct 8
-DEADLINE : oct 25
+This project is part of Matrix and Vector Space (Matrix dan Ruang Vektor) Final Project
